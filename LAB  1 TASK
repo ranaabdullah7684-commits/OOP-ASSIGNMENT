@@ -1,4 +1,4 @@
-LAB TASK 1:
+\\LAB TASK 1:
 class CounterClass {
 
     // static variable to count objects
@@ -21,7 +21,7 @@ class CounterClass {
 }
 
 
-LAB TASK 2:
+\\LAB TASK 2:
 class CounterClass {
 
     // static variable to count objects
@@ -51,7 +51,7 @@ class CounterClass {
 }
 
 
-LAB TASK 3:
+\\LAB TASK 3:
 public class Int {
 
     // integer data member
@@ -89,7 +89,7 @@ public class Int {
 }
 
 
-TASK 4:
+\\TASK 4:
 import java.util.Scanner;
 
 public class Time {
@@ -148,7 +148,7 @@ public class Time {
 }
 
 
-TASK 5:
+\\TASK 5:
 import java.util.Scanner;
 
 public class Marks {
@@ -193,7 +193,7 @@ public class Marks {
 }
 
 
-HOME TASK 1:
+\\HOME TASK 1:
 public class Rectangle {
 
     // data members
@@ -248,7 +248,7 @@ public class Rectangle {
 }
 
 
-HOME TASK 2:
+\\HOME TASK 2:
 public class Stock {
 
     // data members
@@ -288,7 +288,7 @@ public class Stock {
 }
 
 
-HOME TASK 3:
+\\HOME TASK 3:
 import java.util.Date;
 
 public class DateTest {
@@ -319,7 +319,7 @@ public class DateTest {
 }
 
 
-HOME TASK 4:
+\\HOME TASK 4:
 import java.util.Random;
 
 public class RandomTest {
@@ -343,7 +343,7 @@ public class RandomTest {
 }
 
 
-HOME TASK 5:
+\\HOME TASK 5:
 public class Account {
 
     // private data fields
